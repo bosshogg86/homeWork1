@@ -9,8 +9,8 @@ Our task for this assignment was to refactor this existing webpage's code to mak
 
 ## Deployed
 
-    * GitHub Repo: https://github.com/bosshogg86/homework1
-    * Website: https://bosshogg86.github.io/homework1/
-   [I'm an inline-style link with title](https://www.google.com)
+   [GitHub Repo](https://github.com/bosshogg86/homework1)
+
+   [Horiseon Website](https://bosshogg86.github.io/homework1/)
 
 [![hw1screenshot.png](https://i.postimg.cc/MTL4sb3s/hw1screenshot.png)](https://bosshogg86.github.io/homework1/)
